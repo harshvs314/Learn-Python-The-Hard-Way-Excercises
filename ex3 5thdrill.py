@@ -1,5 +1,5 @@
 #This drill contains the calculations with floating point numbers...
-#the calculations with them are very accurate than simopple numericals
+#the calculations with them are very accurate than simple numericals
 
 print "I will now count my chickens:"
 #this line will print that we eill count our total chickens
