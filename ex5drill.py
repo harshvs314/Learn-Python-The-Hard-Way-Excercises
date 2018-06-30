@@ -14,6 +14,7 @@ print "He's got %s eyes and %s hair" %(my_eyes,my_hair)
 print "His teeth are usually %s dependingon the coffee" % my_teeth
 
 print "If I add %d,%d,and %d I get %d" %( my_age , my_height , my_weight , my_age+my_height+my_weight )
+#nothing tricky with it bro.....
 
 centimeters_in_one_inch = 0.393701
 kilos_in_one_pound = 2.20462
